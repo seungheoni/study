@@ -17,6 +17,6 @@ public class MainController {
         return body;
     }
 
-    @GetMapping("/jsonmsg")
+
 
 }
