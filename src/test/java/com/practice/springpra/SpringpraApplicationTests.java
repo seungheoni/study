@@ -9,7 +9,6 @@ class SpringpraApplicationTests {
     @Test
     void contextLoads() {
 
-
     }
 
 }
